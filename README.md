@@ -29,7 +29,7 @@
 
 <br />
 
-🔭 Almost one year, working in [Epadoca](https://www.epadoca.com.br) <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/br.svg" width="16" alt="Brazil flag" />, as a systems analyst intern, using C# (.NET Core), HTML, CSS, Javascript, Azure DevOps, and Postgres to develop different projects.
+🔭 More than 3 years, worked in [Thomsons Reuters Brasil](https://www.thomsonreuters.com.br) <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/br.svg" width="16" alt="Brazil flag" />, as a Software Engineer, using NodeJS, MongoDB, HTML, CSS, Javascript, Azure DevOps and AWS to develop different projects.
 
 ---
 
@@ -38,11 +38,11 @@
 
 <br />
 
-🌱 Currently learning NodeJS. Meantime playing with React.
+🌱 Currently learning more about NodeJS. Meantime playing with React.
 
 👯 Looking to collaborate on open-source projects.
 
-💬 Ask me about C#, JS/TS (frontend and backend), DDD, SOLID, software architecture, system design, and design patterns.
+💬 Ask me about NodeJS, JS/TS (frontend and backend), DDD, SOLID, software architecture, system design, and design patterns.
 
 ⚡ Fun fact: [DOG](https://en.wikipedia.org/wiki/Dog) lover.
 
@@ -84,7 +84,7 @@
  <summary>🎂 Experience</summary>
 
 <!--START_SECTION:experience-section-->
-<table width="100%"><thead><th colspan="5">Experience (in years)</th></thead><tbody><tr><td><strong>2+</strong> C# .NET</td><td><strong>2+</strong> .NET Framework</td><td><strong>2+</strong> .NET Core</td><td><strong>1+</strong> Node.JS (JS/TS)</td></tr><tr><td><strong>2+</strong> MS SQL Server</td><td><strong>2+</strong> MySQL/MariaDB</td><td><strong>2+</strong> PostgreSQL</td><td><strong>1+</strong> AWS</td></tr><tr><td><strong>1+</strong> Azure</td><td><strong>2+</strong> JS (Frontend)</td><td><strong>2+</strong> jQuery</td><td><strong>1+</strong> ReactJS</td></tr><tr></tr></tbody></table>
+<table width="100%"><thead><th colspan="5">Experience (in years)</th></thead><tbody><tr><td><strong>7+</strong> Javascript, HTML and CSS</td><td><strong>6+</strong> Node.JS</td><td><strong>4+</strong> MySQL</td><td><strong>4+</strong> MongoDB</td></tr><tr><td><strong>4+</strong> Microsoft SQL Server</td><td><strong>4+</strong> .NET Framework</td><td><strong>4+</strong> .NET Core</td><td><strong>4+</strong> C# .NET</td></tr><tr><td><strong>3+</strong> PostgreSQL</td><td><strong>3+</strong> AWS</td><td><strong>3+</strong> Azure</td><td><strong>1+</strong> ReactJS</td></tr><tr></tr></tbody></table>
 <!--END_SECTION:experience-section-->
 
 ---
