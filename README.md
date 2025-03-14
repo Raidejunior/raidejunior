@@ -25,11 +25,11 @@
   
 </div><br />
 
-🙋🏽‍♂️ My name is **Raide da Silva Junior**, I'm from Rio de Janeiro, Brazil <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/br.svg" width="16" alt="Brazil flag" />, living in Nova Friburgo, Brazil.
+🙋🏽‍♂️ My name is **Raide da Silva Junior**, I'm from Rio de Janeiro, Brazil <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/br.svg" width="16" alt="Brazil flag" />, living in Rio de Janeiro, Brazil.
 
 <br />
 
-🔭 More than 3 years, worked in [Thomsons Reuters Brasil](https://www.thomsonreuters.com.br) <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/br.svg" width="16" alt="Brazil flag" />, as a Software Engineer, using NodeJS, MongoDB, HTML, CSS, Javascript, Azure DevOps and AWS to develop different projects.
+🔭 More than 3 years, worked in [Thomsons Reuters Brasil](https://www.thomsonreuters.com.br) <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/br.svg" width="16" alt="Brazil flag" />, as a Software Engineer, using Java + Spring Boot, MySQL, Hibernate, JPA, Javascript, Azure DevOps and AWS to develop different projects.
 
 ---
 
@@ -38,11 +38,11 @@
 
 <br />
 
-🌱 Currently learning more about NodeJS. Meantime playing with React.
+🌱 Currently learning more about Java. Meantime playing with React.
 
 👯 Looking to collaborate on open-source projects.
 
-💬 Ask me about NodeJS, JS/TS (frontend and backend), DDD, SOLID, software architecture, system design, and design patterns.
+💬 Ask me about Java, JS/TS (frontend and backend), DDD, SOLID, software architecture, system design, and design patterns.
 
 ⚡ Fun fact: [DOG](https://en.wikipedia.org/wiki/Dog) lover.
 
@@ -84,7 +84,7 @@
  <summary>🎂 Experience</summary>
 
 <!--START_SECTION:experience-section-->
-<table width="100%"><thead><th colspan="5">Experience (in years)</th></thead><tbody><tr><td><strong>7+</strong> Javascript, HTML and CSS</td><td><strong>6+</strong> Node.JS</td><td><strong>4+</strong> MySQL</td><td><strong>4+</strong> MongoDB</td></tr><tr><td><strong>4+</strong> Microsoft SQL Server</td><td><strong>4+</strong> .NET Framework</td><td><strong>4+</strong> .NET Core</td><td><strong>4+</strong> C# .NET</td></tr><tr><td><strong>3+</strong> PostgreSQL</td><td><strong>3+</strong> AWS</td><td><strong>3+</strong> Azure</td><td><strong>1+</strong> ReactJS</td></tr><tr></tr></tbody></table>
+<table width="100%"><thead><th colspan="5">Experience (in years)</th></thead><tbody><tr><td><strong>3+</strong> Javascript, HTML and CSS</td><td><strong>3+</strong> Java + Spring Boot</td><td><strong>3+</strong> Node.JS</td><td><strong>3+</strong> MySQL</td><td><strong>2+</strong> MongoDB</td></tr><tr><td><strong>2+</strong> Microsoft SQL Server</td><td><strong>2+</strong> .NET Framework</td><td><strong>2+</strong> .NET Core</td><td><strong>2+</strong> C# .NET</td></tr><tr><td><strong>2+</strong> PostgreSQL</td><td><strong>1+</strong> AWS</td><td><strong>1+</strong> Azure</td><td><strong>1+</strong> ReactJS</td></tr><tr></tr></tbody></table>
 <!--END_SECTION:experience-section-->
 
 ---
