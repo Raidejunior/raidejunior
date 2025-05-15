@@ -32,7 +32,7 @@
 
 <br />
 
-🔭 More than 3 years, worked in [Thomsons Reuters Brasil](https://www.thomsonreuters.com.br) <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/br.svg" width="16" alt="Brazil flag" />, as a Software Engineer, using Java + Spring Boot, MySQL, Hibernate, JPA, Javascript, Azure DevOps and AWS to develop different projects.
+🔭 More than 3 years, worked in LinkCredito <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/br.svg" width="16" alt="Brazil flag" />, as a Software Engineer, using Java + Spring Boot, MySQL, Hibernate, JPA, Javascript, Azure DevOps and AWS to develop different projects.
 
 ---
 
