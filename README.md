@@ -28,11 +28,11 @@
   
 </div><br />
 
-🙋🏽‍♂️ My name is **Raide da Silva Junior**, I'm from Rio de Janeiro, Brazil <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/br.svg" width="16" alt="Brazil flag" />, living in Rio de Janeiro, Brazil.
+🙋🏽‍♂️ My name is **Raide da Silva Junior**, I'm from Rio de Janeiro, Brazil but now I'm living in São Paulo, Brazil.
 
 <br />
 
-🔭 More than 4 years, worked in LinkCredito <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/br.svg" width="16" alt="Brazil flag" />, as a Software Engineer, using Java + Spring Boot, MySQL, Hibernate, JPA, Javascript, Azure DevOps and AWS to develop different projects.
+🔭 More than 4 years of experience, currently working at Santander through Foursys as a Mid-level Software Engineer, using Java, Spring Boot, Apache Camel, MySQL, Hibernate, JPA, JavaScript, Azure DevOps, and AWS to develop and integrate enterprise-grade projects.
 
 ---
 
@@ -41,17 +41,13 @@
 
 <br />
 
-🌱 Currently learning more about Java. Meantime playing with React.
+🌱 Currently studying more abut Java and AWS.
 
 👯 Looking to collaborate on open-source projects.
 
 💬 Ask me about Java, JS/TS (frontend and backend), DDD, SOLID, software architecture, system design, and design patterns.
 
-⚡ Fun fact: [DOG](https://en.wikipedia.org/wiki/Dog) lover.
-
-<img src="https://raw.githubusercontent.com/Raidejunior/raidejunior/main/Dogs.jpg" width="50%" alt="Dog Lover" />
-
----
+--
 
 </details>
 
